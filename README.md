@@ -1,17 +1,10 @@
-# [Connectinghthedots](https://connetinghtedots.com/)
+# [Connectinghthedots](https://connetingthedots.com/)
 
 
-### Portfolio site of Connecting the Dots by Suma Shetty
-
-
-
-
-
+### Portfolio site by Suma Shetty
 
 
 #### Site powered by [S Labs Foundation](https://slabs.tech/art/)
 
 
-
-
-Thanks to Michael Rose for the Minimal Mistakes Jekyll Plugin
+Thanks to Michael Rose for the [Minimal Mistakes Jekyll Plugin](https://mmistakes.github.io/minimal-mistakes/)
