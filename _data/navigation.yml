@@ -2,10 +2,10 @@
 main:
 - title: "About"
   url: /about/
-#- title: "Sketch"
-#  url: /sketch/
 - title: "Rangoli"
   url: /rangoli/
+- title: "Sketch"
+  url: /sketch/
 #- title: "Painting"
 #  url: /painting/
 #- title: "Search"
