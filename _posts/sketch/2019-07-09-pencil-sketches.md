@@ -7,7 +7,7 @@ tags:
 ---
 
 
-<img src="{{site.baseurl}}/assets/art/thumbnail/sketch-01.jpg">
+<img src="{{site.baseurl}}/assets/art/thumbnail/set-1-sketch-01.jpg">
 
 
 
